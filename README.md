@@ -82,5 +82,7 @@ JavaScript does not support associative arrays.
 You should use objects when you want the element names to be strings (text).
 You should use arrays when you want the element names to be numbers.
 
+https://medium.freecodecamp.org/learning-react-roadmap-from-scratch-to-advanced-bff7735531b6
+
 
 
